@@ -22,8 +22,10 @@ body{
     float: right;
     margin-top: 20px;
     margin-right: 5%;
+border: 0;
     
-}.btnlogo{
+    
+}#headbtn{
     background-color: white;
     border: 0;
     font-family: 'DecimaMonoPro', sans-serif;
@@ -32,6 +34,8 @@ body{
     width: 80px;
     height: 20px;
     font-size: small;
+    color: black;
+    margin: 5px;
         
     
 }.img{
