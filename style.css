@@ -64,7 +64,7 @@ body{
 }.text:hover{
     background-color: red;
     color: white;
-    transform: skewY(7deg)
+    
     
     ;
     
@@ -97,9 +97,7 @@ body{
 }.topstory:hover{
     background-color: red;
     color: white;
-    transform: skewY(7deg)
-    scaleX(7deg)
-    ;
+
     
 }.news{
     padding-top: 1px;
